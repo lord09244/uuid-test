@@ -1,0 +1,16 @@
+{
+  "name": "uuid-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "potusky",
+  "license": "ISC",
+  "dependencies": {
+    "nano-time": "^1.0.0",
+    "uuid": "^3.1.0"
+  }
+}
